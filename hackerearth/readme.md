@@ -1,1 +1,1 @@
-Solutions containing to HACKEREARTH problems
+Solutions containing HACKEREARTH problems
